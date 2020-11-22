@@ -26,7 +26,7 @@
 
 `git checkout miree`
 
-#### 	다른 branch에 있는 내용과 합치고 시작해야 된다면 병합 먼저
+#### 		다른 branch에 있는 내용과 합치고 시작해야 된다면 병합 먼저
 
 ​	`git merge 다른branch이름`
 
@@ -34,7 +34,7 @@
 
 `git branch 새로운branch이름`
 
-	#### 	기존에 있는 branch 목록을 보고싶을 땐
+#### 		기존에 있는 branch 목록을 보고싶을 땐
 
 ​	`git branch`
 
