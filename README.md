@@ -10,7 +10,7 @@
 
 `git clone https://github.com/dataitgirls4/team_3.git`
 
-### 2. 항상 다른 멤버가 push한 것이 있다고 생각하고 pull 먼저 하고 진행할 것
+### 2. 다른 멤버가 push한 것(이 있다고 생각하고)  pull 먼저 하고 진행할 것
 
 #### main에서
 
@@ -22,17 +22,22 @@
 
 ### 3. 각자의 branch로 가서 작업하기 (나중에 main에서 합칠것)
 
-#### 나[ex)miree]의 branch로 가서 작업 
+#### 기존에 작업하던 branch가 있다면 가서 작업(ex.miree) 
 
 `git checkout miree`
 
-#### 작업 한 것은 원격저장소로 push
+#### 	다른 branch에 있는 내용과 합치고 시작해야 된다면 병합 먼저
+
+​	`git merge 다른branch이름`
+
+#### 새로운 branch에서 작업하고 싶다면 branch 생성
+
+`git branch 새로운branch이름`
+
+	#### 	기존에 있는 branch 목록을 보고싶을 땐
+
+​	`git branch`
+
+#### 4. 작업 한 것은 원격저장소로 push
 
 `git add .` > `git commit -m"커밋명"` > `git push`
-
-> branch 생성 : `git branch "새로운 브랜치 이름"`
-
-> branch 목록 볼 때: `git branch`
-
-:star:
-
