@@ -24,5 +24,7 @@
 
 #### branch 목록볼 때
 
-`git 
+`git branch`
+
+
 
