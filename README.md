@@ -12,6 +12,12 @@
 
 ### 2. 항상 다른 멤버가 push한 것이 있다고 생각하고 pull 먼저 하고 진행할 것
 
+#### main에서
+
+`git checkout main`
+
+#### 수정사항을 pull한다.
+
 `git pull origin main`
 
 ### 3. 각자의 branch로 가서 작업하기 (나중에 main에서 합칠것)
@@ -28,5 +34,5 @@
 
 > branch 목록 볼 때: `git branch`
 
-
+:star:
 
