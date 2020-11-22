@@ -10,6 +10,8 @@
 
 `git clone https://github.com/dataitgirls4/team_3.git`
 
+
+
 ### 2. 다른 멤버가 push한 것(이 있다고 생각하고)  pull 먼저 하고 진행할 것
 
 #### main에서
@@ -19,6 +21,8 @@
 #### 수정사항을 pull한다.
 
 `git pull origin main`
+
+
 
 ### 3. 각자의 branch로 가서 작업하기 (나중에 main에서 합칠것)
 
@@ -38,6 +42,8 @@
 
 ​	`git branch`
 
-#### 4. 작업 한 것은 원격저장소로 push
+
+
+### 4. 작업 한 것은 원격저장소로 push
 
 `git add .` > `git commit -m"커밋명"` > `git push`
