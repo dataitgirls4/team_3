@@ -47,3 +47,19 @@
 ### 4. 작업 한 것은 원격저장소로 push
 
 `git add .` > `git commit -m"커밋명"` > `git push`
+
+
+
+# 데이터 설명
+
+(2020.11.26 연주 작성)
+
+## 1. 댓글합
+
+- 전체 책 중 '댓글이 존재하는 책'의 정보만 있습니다.
+- columns `nickname`,`rating`,`title`,`voice`,`author`,`review`,`created`,`publish`,`genre`
+
+## 2. 전체합
+
+- 댓글 유무와 관계 없이 팟빵오디오북에 존재하는 '모든 책'의 정보가 있습니다.
+- columns `title`, `voice`, `author`, `publish`, `genre`
