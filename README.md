@@ -52,7 +52,7 @@
 
 # 데이터 설명
 
-(2020.11.26 연주 작성)
+(2020.11.28 연주 업데이트)
 
 ## 1. 댓글합
 
@@ -63,3 +63,9 @@
 
 - 댓글 유무와 관계 없이 팟빵오디오북에 존재하는 '모든 책'의 정보가 있습니다.
 - columns `title`, `voice`, `author`, `publish`, `genre`
+
+## 3. naver_review
+
+- 팟빵오디오북에서 댓글 개수가 가장 많은 30권의 책 중, 네이버오디오북과 겹치는 13권에 대한 댓글 크롤링을 진행
+- columns  `nickname`, `created`, `review`, `title`, `author`, `voice`
+
