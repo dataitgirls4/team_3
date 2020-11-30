@@ -34,10 +34,6 @@ updated at 2020.11.29
 
 로컬에서 자신(miree)의 branch로 이동: `git checkout miree` -> 이렇게 하면 git에 (main)이었던 것이 (miree)로 바껴야한다.
 
-main에 있는걸 불러와서 작업하고 싶을 땐: `git merge main`
-
-(내가 내 브랜치에서 작업하던거 계속 작업하고 싶을 땐 merge할 필요없음)
-
 로컬(miree)에서 수정한 사항을 원격저장소(branch:miree)에 저장해주고 다른 사람들도 볼 수 있게 하려면: `git add .` -> `git commit -m "커밋명(영어로)"` -> `git push`
 
 ## 3. 내가 작업 완료한(또는 함께 수정하고 싶은) 파일만 따로 main에 올리고 싶을 땐
