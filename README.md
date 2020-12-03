@@ -8,7 +8,7 @@
 
 # 데이터 설명
 
-(2020.12.1 연주 업데이트)
+(2020.12.3 연주 업데이트)
 
 ## 1. Podppang_review(11/26)
 
@@ -30,7 +30,7 @@
 - 윌라 이달의 오디오북 134권에 대한 댓글 크롤링. 책 한권당 댓글 한두개정도 누락되어있을 가능성이 있음.
 - columns `nickname`, `created`, `review`
 
-## 5. Naver_event()
+## 5. Naver_event(12/2)
 
 - 네이버 오디오클립이 진행했던 오디오북 이벤트 리스트
 - columns `event_name`, `event_start`, `event_end`
