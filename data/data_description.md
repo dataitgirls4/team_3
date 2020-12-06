@@ -1,6 +1,6 @@
 # 데이터 설명
 
-(2020.12.1 연주 업데이트)
+(2020.12.06 Update)
 
 ## 1. Podppang_review(11/26)
 
@@ -27,3 +27,7 @@
 -  네이버 오디오클립에서 진행했던 오디오북 이벤트에 대한 정보 크롤링.
 
 -  columns `event_name`, `event_start`, `event_end`
+
+## 5. Podbbang_event(12/1)
+-  팟빵 오디오북에서 진행했던 오디오북 이벤트에 대한 정보 크롤링.
+=  columns 'event_name', 'event_period, 'event_book'
