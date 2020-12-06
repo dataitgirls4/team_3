@@ -2,16 +2,15 @@
 
 ## 크림빵 :fire:
 
-> :black_heart: 김연주 - 데이터 크롤링, EDA
+> :black_heart: 김연주 - Data Scraping Management, Data Analysis, Project Management
 >
-> :blue_heart: 김한나 - 데이터 크롤링, EDA
+> :blue_heart: 김한나 - Recommendation System Development, Data Analysis, Data Visualization
 >
-> :heart: 김현진 - 데이터 크롤링, EDA
+> :heart: 김현진 - Project Management, Data Analysis, Natural Language Processing
 >
-> :green_heart: 박지현 - 데이터 크롤링, EDA
+> :green_heart: 박지현 - Data Scraping, Data Analysis, Attribute Analysis
 >
-> :purple_heart: 최미리 - 데이터 크롤링, EDA
-
+> :purple_heart: 최미리 - Data Management, Data Analysis, Natural Language Processing
 
 
 # Project
