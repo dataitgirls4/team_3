@@ -2,7 +2,7 @@
 
 ## 크림빵 :fire:
 
-> :black_heart: 김연주 - Data Scraping Management, Data Analysis, Project Management
+> :black_heart: 김연주 - Data Scraping Management, Data Analysis, Project Management, Material Design
 >
 > :blue_heart: 김한나 - Recommendation System Development, Data Analysis, Data Visualization
 >
