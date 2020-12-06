@@ -28,6 +28,10 @@
 
 -  columns `event_name`, `event_start`, `event_end`
 
-## 5. Podbbang_event(12/1)
--  팟빵 오디오북에서 진행했던 오디오북 이벤트에 대한 정보 크롤링.
+## 6. Podbbang_event(12/1)
+-  팟빵 오디오북에서 진행했던 이벤트에 대한 정보 크롤링.
+=  columns 'event_name', 'event_period
+
+## 7. Podbbang_audio_review_event(12/1)
+-  팟빵 오디오북에서 진행했던 이벤트 중 오디오북 댓글 이벤트에 대한 정보 크롤링.
 =  columns 'event_name', 'event_period, 'event_book'
