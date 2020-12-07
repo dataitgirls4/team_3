@@ -21,9 +21,9 @@
 - 프로젝트 한 줄 설명 : 오디오북 댓글 데이터로 살펴본 오디오북 서비스 플랫폼
 
 ## 데이터 출처
-- (팟빵 오디오북)[http://m.podbbang.com/audiobook]
-- (네이버 오디오클립)[https://audioclip.naver.com/channels/3004]
-- (윌라)[https://www.welaaa.com/]
+- [팟빵 오디오북](http://m.podbbang.com/audiobook)
+- [네이버 오디오클립](https://audioclip.naver.com/channels/3004)
+- [윌라](https://www.welaaa.com/)
 
 
 
