@@ -10,15 +10,37 @@
 >
 > :green_heart: 박지현 - Data Scraping, Data Analysis, Attribute Analysis
 >
-> :purple_heart: 최미리 - Data Management, Data Analysis, Natural Language Processing
+> :purple_heart: 
+>
+> [최미리]: https://github.com/choimiree
+>
+>  - Data Management, Data Analysis, Natural Language Processing
 
 
 # Project
 
 ## 좋아요. 잘들었어요. 감사합니다.
 
+### 부제: 추천시스템 만들어주세요! 안돼요! 왜냐하면..
+
 - 프로젝트 기간 : 2020.11.02 - 2020.12.05
 - 프로젝트 한 줄 설명 : 오디오북 댓글 데이터로 살펴본 오디오북 서비스 플랫폼
+
+
+
+### 소감
+
+:black_heart: 김연주
+
+:blue_heart: 김한나 
+
+:heart: 김현진
+
+:green_heart: 박지현
+
+:purple_heart: 최미리 
+
+
 
 ## 데이터 출처
 - [팟빵 오디오북](http://m.podbbang.com/audiobook)
