@@ -12,9 +12,7 @@
 >
 > :purple_heart: 
 >
-> [최미리]: https://github.com/choimiree
->
->  - Data Management, Data Analysis, Natural Language Processing
+> [최미리]: https://github.com/choimiree	"Data Management, Data Analysis, Natural Language Processing"
 
 
 # Project
