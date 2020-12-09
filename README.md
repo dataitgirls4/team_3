@@ -10,9 +10,8 @@
 >
 > :green_heart: 박지현 - Data Scraping, Data Analysis, Attribute Analysis
 >
-> :purple_heart: 
+> :purple_heart: 최미리 - Data Management, Data Analysis, Natural Language Processing
 >
-> [최미리]: https://github.com/choimiree	"Data Management, Data Analysis, Natural Language Processing"
 
 
 # Project
@@ -36,7 +35,7 @@
 
 :green_heart: 박지현
 
-:purple_heart: 최미리 
+:purple_heart: 최미리 - 비대면 온라인 상황에서 프로젝트를 진행하는게 쉽지 않았음에도 불구하고, 끝까지 각자의 역할을 다 해준 우리 크림빵 팀원분들에게 먼저 감사의 인사를 전하고 싶습니다. 4개월 간의 데잇걸즈 과정을 통해 Python, SQL, 통계를 이용한 데이터분석력, pandas, tableau를 활용한 데이터 시각화, growth-hacking, agile thinking 등 분석적 사고력과 소통 능력을 배울 수 있는 좋은 기회였습니다. 데모데이 프로젝트는 배운 것들을 모두 녹여내어 준비했던 마지막 프로젝트였기에 더욱 의미가 있었습니다. 빠르게 배우고 적용하는 능력, 프로젝트를 이끌어 가는 능력, 아이디어를 말과 글로 잘 정리하는 능력 등을 팀원들로부터 배울 수 있는 좋은 기회이기도 했습니다. 이 경험을 통해 성장한 것처럼 사회에 나가서도 성장을 거듭하는 사람이 되고 싶습니다. 
 
 
 
